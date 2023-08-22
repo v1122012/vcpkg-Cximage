@@ -1,2 +1,2 @@
-PROJECT (logtest)
+PROJECT(Cximage)
 ADD_DEFINITIONS(-DPOSIX)
